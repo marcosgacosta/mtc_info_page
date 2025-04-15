@@ -4,7 +4,7 @@
 
 ![Marcos Acosta](https://momotech.us/your-avatar.png)
 
-Welcome! I am marcosgacosta/mtc_info_page. Check out my repos!
+Welcome! I am Marcos Acosta. Check out my repos!
 
 ## Projects
 
@@ -14,4 +14,4 @@ Welcome! I am marcosgacosta/mtc_info_page. Check out my repos!
 
 ---
 
-@ Marcos Acosta marcosgacosta/mtc_info_page
+@ 2024 Marcos Acosta
