@@ -8,9 +8,10 @@ Welcome! I am Marcos Acosta. Check out my repos!
 
 ## Projects
 
-| Project Name | Description | Repository Link |
+| Project Name | Web Page    | Repository Link |
 |--------------|-------------|-----------------|
-| MTC Infra | [GitHub](https://github.com/marcosgacosta/mtc-infra-prod) |
+| mtc-backend-prod  |  No Page | [GitHub](https://github.com/marcosgacosta/mtc-backend-prod.git) |
+| mtc-infra-prod  |  [Webpage](https://marcosgacosta.github.io/mtc-infra-prod/) | [GitHub](https://github.com/marcosgacosta/mtc-infra-prod.git) |
 
 ---
 
