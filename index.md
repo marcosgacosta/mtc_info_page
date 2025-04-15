@@ -2,7 +2,7 @@
 
 ## About Me
 
-![Marcos Acosta](https://momotech.us/your-avatar.png)
+![Marcos Acosta](https://avatars.githubusercontent.com/u/61573326?v=4)
 
 Welcome! I am Marcos Acosta. Check out my repos!
 
@@ -14,4 +14,4 @@ Welcome! I am Marcos Acosta. Check out my repos!
 
 ---
 
-@ 2024 Marcos Acosta
+@ 2025 Marcos Acosta
